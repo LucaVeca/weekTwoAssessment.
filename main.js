@@ -4,5 +4,4 @@ $( ".dan" ).click(function() {
 
 $( ".iwao" ).click(function() {
     $( ".iwao" ).hide();
-    $( ".dan" ).hide();
 });
